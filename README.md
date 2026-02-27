@@ -120,6 +120,9 @@ My work spans **AI-driven applications**, **distributed storage**, **networked s
 - Applying AI outputs in real-world applications
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rawan78sadeq/rawan78sadeq/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ## 📫 Contact
 - LinkedIn: YOUR_LINKEDIN
