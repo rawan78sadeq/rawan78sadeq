@@ -64,15 +64,15 @@ My work spans **AI-driven applications**, **distributed storage**, **networked s
 ---
 
 ## 📊 GitHub Stats (Animated Cards)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawan78sadeq&show_icons=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawan78sadeq&layout=compact" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rawan78sadeq&show_icons=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rawan78sadeq&layout=compact" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rawan78sadeq" height="170" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
