@@ -22,7 +22,7 @@
 <p align="center">
   <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rawan78sadeq&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -65,12 +65,12 @@ My work spans **AI-driven applications**, **distributed storage**, **networked s
 
 ## 📊 GitHub Stats (Animated Cards)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rawan78sadeq&show_icons=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawan78sadeq&layout=compact" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME" height="170" />
+  <img src="https://streak-stats.demolab.com?user=rawan78sadeq" height="170" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ My work spans **AI-driven applications**, **distributed storage**, **networked s
 ## 🐍 Contribution Snake (Animated)
 > هاي بتحتاج GitHub Action داخل repo تبع البروفايل (بعطيك الخطوات تحت)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/rawan78sadeq/rawan78sadeq/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
