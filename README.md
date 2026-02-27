@@ -20,8 +20,8 @@
 
 ## 🧭 Quick Links
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rawan-amer-709b80317"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rawan2020amer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=rawan78sadeq&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
@@ -79,35 +79,34 @@ My work spans **AI-driven applications**, **distributed storage**, **networked s
 
 ### 1️⃣ Sustainable Campus – AI-Powered Intelligent Recommender System (Graduation Project)
 - AI-based forecasting + recommendation support
-- Web dashboard to visualize forecasting outputs
+- Web dashboard to visualize forecasting outputs  
 **Tech:** React, ASP.NET, SQL Server, AI Forecasting
 
 ### 2️⃣ Email Spam Classification (Decision Tree + LSTM)
 - Traditional ML + Deep Learning comparison
-- Text preprocessing + evaluation
+- Text preprocessing + evaluation  
 **Tech:** Python, Scikit-learn, LSTM, NLP
 
 ### 3️⃣ Distributed Storage System (Dynamo-Inspired)
 - 5-node KV store with replication & fault tolerance
-- Docker deployment and failure simulation
+- Docker deployment and failure simulation  
 **Tech:** Go, Replication, Consistency Models, Distributed Systems
 
 ### 4️⃣ Distributed Prime Number Checker (gRPC + Protobuf)
-- Coordinator/Workers, range splitting, early cancellation
+- Coordinator/Workers, range splitting, early cancellation  
 **Tech:** Go, gRPC, Protobuf
 
 ### 5️⃣ ZooKeeper-Based Distributed Coordination
-- Synchronization and distributed state management
+- Synchronization and distributed state management  
 **Tech:** ZooKeeper
 
 ### 6️⃣ Full-Stack Internship Projects (ProGineer)
-- Angular frontend + ASP.NET backend + SQL Server
+- Angular frontend + ASP.NET backend + SQL Server  
 **Tech:** Angular, ASP.NET, SQL, REST APIs
 
 ---
 
 ## 🐍 Contribution Snake (Animated)
-> هاي بتحتاج GitHub Action داخل repo تبع البروفايل (بعطيك الخطوات تحت)
 <p align="center">
   <img src="https://raw.githubusercontent.com/rawan78sadeq/rawan78sadeq/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
@@ -120,10 +119,7 @@ My work spans **AI-driven applications**, **distributed storage**, **networked s
 - Applying AI outputs in real-world applications
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rawan78sadeq/rawan78sadeq/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ## 📫 Contact
-- LinkedIn: www.linkedin.com/in/rawan-amer-709b80317
+- LinkedIn: https://www.linkedin.com/in/rawan-amer-709b80317
 - Email: rawan2020amer@gmail.com
