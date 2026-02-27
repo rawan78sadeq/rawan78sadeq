@@ -1,125 +1,146 @@
-<!-- Animated Header (Optional GIF) -->
+<!-- ========== HERO ========== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="120" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="110" alt="coding gif"/>
 </p>
 
-<h1 align="center">Hi, I'm Rawan Sadeq 👋</h1>
+<h1 align="center">Rawan Sadeq</h1>
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%7C+Birzeit+University;Networking+%2B+Distributed+Systems+%2B+AI;Full-Stack+Developer+(React%2FAngular+%2B+ASP.NET);Building+Reliable+and+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=900&lines=Computer+Engineering+%E2%80%A2+Birzeit+University;Networking+%7C+Distributed+Systems+%7C+AI;Full-Stack+%28React%2FAngular+%2B+ASP.NET%29;Building+reliable+systems+that+scale" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  🎓 Computer Engineering Student @ Birzeit University &nbsp;•&nbsp; 📍 Palestine | Salfeet &nbsp;•&nbsp; 🚀 Aspiring Systems, AI & Distributed Systems Engineer
-</p>
-
----
-
-## 🧭 Quick Links
-<p align="center">
-  <a href="https://www.linkedin.com/in/rawan-amer-709b80317"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rawan2020amer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rawan78sadeq&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-## ✨ About Me
-I’m passionate about building intelligent, scalable, and reliable systems that combine **AI**, **Networking**, and **Distributed Architectures**.  
-My work spans **AI-driven applications**, **distributed storage**, **networked systems**, and **full-stack development**.
-
----
-
-## ⚡ Tech Stack (Badges)
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange)
-![ARM](https://img.shields.io/badge/ARM%20Assembly-0091BD?logo=arm&logoColor=white)
-
-### 🌐 Web
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-
-### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7)
-
----
-
-## 📊 GitHub Stats (Animated Cards)
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rawan78sadeq&show_icons=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rawan78sadeq&layout=compact" height="160"/>
+  <b>Systems • Distributed • Networking • AI</b>
+  <br/>
+  Palestine | Salfeet
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rawan78sadeq" height="170" />
+  <a href="https://www.linkedin.com/in/rawan-amer-709b80317">
+    <img src="https://img.shields.io/badge/LinkedIn-rawan--amer--709b80317-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rawan2020amer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rawan2020amer%40gmail.com-EA4335?logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rawan78sadeq&label=views&color=0E75B6&style=flat"/>
 </p>
+
 ---
 
-## 🚀 Featured Projects
+## ✦ About
+I build **intelligent, scalable, and reliable systems** that combine **AI**, **networked architectures**, and **distributed design**.  
+I enjoy working close to the system — where **performance, coordination, and correctness** matter.
 
-### 1️⃣ Sustainable Campus – AI-Powered Intelligent Recommender System (Graduation Project)
-- AI-based forecasting + recommendation support
-- Web dashboard to visualize forecasting outputs  
+---
+
+<!-- ========== SIGNATURE STRIP (UNIQUE LOOK) ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E75B6" />
+</p>
+
+## ✦ Focus Areas (What I do)
+- **Networking:** TCP/IP, Routing, OSPF, Client–Server, network simulation & configuration  
+- **Distributed Systems:** gRPC/Protobuf, coordination, replication & consistency, fault tolerance, ZooKeeper  
+- **AI / ML:** forecasting + recommendations, spam classification (Decision Tree + LSTM), evaluation  
+- **Full-Stack:** React / Angular, ASP.NET, SQL Server, REST APIs  
+- **Systems:** OS scheduling, multithreading, real-time threading, data structures & algorithms  
+
+---
+
+## ✦ Tech Stack (Clean Badges)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF7A00"/>
+  <img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?logo=arm&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7"/>
+</p>
+
+---
+
+## ✦ Proof of Work (Stats)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rawan78sadeq&show_icons=true&rank_icon=github&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rawan78sadeq&layout=compact&hide_border=true" height="155"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rawan78sadeq&hide_border=true" height="165" />
+</p>
+
+---
+
+## ✦ Featured Projects (Curated)
+> **Tip:** Pin these repos on your profile (top 6). Keep names clean + README + screenshots.
+
+### ① Sustainable Campus — AI-Powered Recommender (Graduation Project)
+**What:** Forecasting + recommendations, with results visualized on a web dashboard.  
 **Tech:** React, ASP.NET, SQL Server, AI Forecasting
 
-### 2️⃣ Email Spam Classification (Decision Tree + LSTM)
-- Traditional ML + Deep Learning comparison
-- Text preprocessing + evaluation  
+### ② Email Spam Classification — Decision Tree vs LSTM
+**What:** NLP pipeline + model comparison between classical ML and deep learning.  
 **Tech:** Python, Scikit-learn, LSTM, NLP
 
-### 3️⃣ Distributed Storage System (Dynamo-Inspired)
-- 5-node KV store with replication & fault tolerance
-- Docker deployment and failure simulation  
-**Tech:** Go, Replication, Consistency Models, Distributed Systems
+### ③ Dynamo-Inspired Distributed Storage (5 Nodes)
+**What:** KV store with replication, per-key consistency, and failure tolerance.  
+**Tech:** Go, Distributed Systems, Replication, Consistency
 
-### 4️⃣ Distributed Prime Number Checker (gRPC + Protobuf)
-- Coordinator/Workers, range splitting, early cancellation  
-**Tech:** Go, gRPC, Protobuf
+### ④ Distributed Prime Checker — gRPC/Protobuf
+**What:** Coordinator/worker parallelism + early cancellation when divisor is found.  
+**Tech:** Go, gRPC, Protobuf, Concurrency
 
-### 5️⃣ ZooKeeper-Based Distributed Coordination
-- Synchronization and distributed state management  
+### ⑤ ZooKeeper-Based Coordination
+**What:** Distributed synchronization & state coordination patterns.  
 **Tech:** ZooKeeper
 
-### 6️⃣ Full-Stack Internship Projects (ProGineer)
-- Angular frontend + ASP.NET backend + SQL Server  
-**Tech:** Angular, ASP.NET, SQL, REST APIs
+### ⑥ Full-Stack Internship — ProGineer
+**What:** Angular frontend + ASP.NET backend + SQL Server integration.  
+**Tech:** Angular, ASP.NET, SQL Server, REST APIs
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+<!-- ========== COLLAPSIBLE DETAILS (UNIQUE & CLEAN) ========== -->
+<details>
+  <summary><b>📚 More Projects & Coursework (click to expand)</b></summary>
+
+- **Networking & IoT:** client–server communication, IoT automation scenarios  
+- **Operating Systems:** scheduling algorithms project  
+- **Multithreading:** real-time threading project  
+- **Security/Crypto:** CBC modes + security mechanisms  
+- **Digital Design & Verification:** Verilog + UVM DV project  
+
+</details>
+
+---
+
+## ✦ Currently Working On
+- Designing production-level distributed system components  
+- Deepening networking fundamentals (TCP/IP, routing, OSPF)  
+- AI integration in real applications (forecasting → visualization)
+
+---
+
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/rawan78sadeq/rawan78sadeq/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
-
-## 📌 Currently Working On
-- Building production-level distributed systems
-- Deepening networking knowledge
-- Applying AI outputs in real-world applications
-
----
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/rawan-amer-709b80317
-- Email: rawan2020amer@gmail.com
+<!-- subtle footer line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E75B6" />
+</p>
