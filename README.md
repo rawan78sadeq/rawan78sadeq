@@ -125,5 +125,5 @@ My work spans **AI-driven applications**, **distributed storage**, **networked s
 </p>
 
 ## 📫 Contact
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/rawan-amer-709b80317
+- Email: rawan2020amer@gmail.com
