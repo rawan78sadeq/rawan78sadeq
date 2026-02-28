@@ -1,33 +1,27 @@
-<!-- ========== HERO ========== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="110" alt="coding gif"/>
-</p>
+<!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Rawan Sadeq</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="90" alt="coding gif"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=900&lines=Computer+Engineering+%E2%80%A2+Birzeit+University;Networking+%7C+Distributed+Systems+%7C+AI;Full-Stack+%28React%2FAngular+%2B+ASP.NET%29;Building+reliable+systems+that+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=%24+whoami;Rawan+Sadeq;Computer+Engineering+%7C+Birzeit+University;%24+specialization;Networking+%7C+Distributed+Systems+%7C+AI;%24+building;Scalable+%26+Reliable+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <b>Systems • Distributed • Networking • AI</b>
-  <br/>
-  Palestine | Salfeet
+  <img src="https://komarev.com/ghpvc/?username=rawan78sadeq&label=PROFILE+VIEWS&color=00E5FF&style=flat" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rawan-amer-709b80317">
-    <img src="https://img.shields.io/badge/LinkedIn-rawan--amer--709b80317-0A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rawan2020amer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rawan2020amer%40gmail.com-EA4335?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rawan78sadeq&label=views&color=0E75B6&style=flat"/>
 </p>
-
----
 
 ## ✦ About
 I build **intelligent, scalable, and reliable systems** that combine **AI**, **networked architectures**, and **distributed design**.  
