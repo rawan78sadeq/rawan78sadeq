@@ -1,113 +1,97 @@
-<!-- ================= ENGINEER LOGBOOK THEME ================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+</p>
 
 <h1 align="center">Rawan Sadeq</h1>
+
 <p align="center">
-  Software Engineer • Distributed Systems Focus  
-  <br>
-  Computer Engineering — Birzeit University
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Networking+%7C+Distributed+Systems+%7C+AI;Full-Stack+Developer;Building+Scalable+%26+Reliable+Systems" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rawan-amer-709b80317">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rawan2020amer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rawan78sadeq&label=Profile+Views&color=0E75B6&style=flat"/>
 </p>
 
 ---
 
-## Engineering Profile
+## About Me
 
-I build systems that are designed to **coordinate, scale, and remain correct under pressure**.
-
-I enjoy working close to the architecture layer —  
-where replication, concurrency, and performance decisions actually matter.
-
-My interest lies in the intersection of:
-- Distributed systems reliability  
-- Network-aware architectures  
-- Applied AI inside real systems  
+Computer Engineering student at Birzeit University passionate about building intelligent, scalable, and reliable systems.  
+My main interests include Networking, Distributed Systems, Artificial Intelligence, and Full-Stack Development.
 
 ---
 
-## Core Engineering Areas
+## Core Expertise
 
-### Distributed Systems
-Replication • Per-key consistency • Fault tolerance • Service coordination • gRPC architectures
-
-### Networking
-TCP/IP • Routing • OSPF • Client–Server design • Network simulation
-
-### Backend & System Design
-Concurrency • Multithreading • REST APIs • ASP.NET • Database integration
-
-### Applied AI
-Forecasting systems • Recommendation engines • NLP classification pipelines
+Networking – TCP/IP, Routing, OSPF, Client-Server Architecture, Network Simulation  
+Distributed Systems – gRPC, Protobuf, Replication, Consistency Models, Fault Tolerance, ZooKeeper  
+Artificial Intelligence – Forecasting Models, Recommendation Systems, Spam Classification (Decision Tree & LSTM)  
+Systems – Operating Systems, Scheduling Algorithms, Multithreading, Real-Time Threading  
+Full-Stack – React, Angular, ASP.NET, SQL Server, REST APIs  
 
 ---
 
-## Selected Engineering Work
+## Technical Skills
 
-### 1. Dynamo-Inspired Distributed Storage System
-Designed and implemented a 5-node key-value storage system that:
+Programming Languages  
+C • C# • Go • Python • JavaScript • MATLAB • ARM Assembly  
 
-- Maintains availability under single-node failure  
-- Implements replication strategy  
-- Preserves strong per-key consistency  
-- Handles client routing and failure recovery  
+Web Technologies  
+React • Angular • ASP.NET • HTML • CSS • PHP  
 
-Tech Stack: Go • Distributed Architecture • Consistency Design
+Databases  
+SQL Server • Relational Database Design  
 
----
-
-### 2. Distributed Prime Number Checker (gRPC)
-Built a coordinator–worker distributed computation system:
-
-- Client sends number to coordinator  
-- Range partitioning across workers  
-- Early cancellation upon divisor discovery  
-- Efficient concurrency handling  
-
-Tech Stack: Go • gRPC • Protobuf • Concurrency
+Tools  
+Git • Linux • Docker • Cisco Packet Tracer  
 
 ---
 
-### 3. AI-Powered Recommendation & Forecasting System
-Graduation project focused on intelligent resource optimization:
+## Featured Projects
 
-- Forecasting models  
-- Recommendation logic  
-- Interactive web dashboard  
+Sustainable Campus – AI-Powered Intelligent Recommender System  
+AI forecasting integrated into a web dashboard using React, ASP.NET, and SQL Server.
 
-Tech Stack: React • ASP.NET • SQL Server • Machine Learning
+Email Spam Classification  
+Implemented and compared Decision Tree and LSTM models for spam detection using Python and NLP techniques.
 
----
+Dynamo-Inspired Distributed Storage System  
+Designed a 5-node distributed key-value store with replication and fault tolerance using Go.
 
-### 4. ZooKeeper-Based Coordination Project
-Implemented distributed synchronization patterns using ZooKeeper for:
+Distributed Prime Checker (gRPC)  
+Coordinator-worker architecture with parallel computation using Go, gRPC, and Protobuf.
 
-- Coordination  
-- State management  
-- Distributed system consistency patterns  
+ZooKeeper-Based Coordination  
+Implemented distributed synchronization and coordination mechanisms.
 
----
-
-## Technical Toolkit
-
-Languages  
-Go • C • C# • Python • JavaScript • ARM Assembly
-
-Systems & Frameworks  
-gRPC • Protobuf • ASP.NET • Docker • Linux • SQL Server
-
-Concepts  
-Replication • Consistency • Fault Tolerance • Concurrency • Networking Protocols
+Full-Stack Internship – ProGineer  
+Developed web applications using Angular, ASP.NET, and SQL Server.
 
 ---
 
-## Engineering Philosophy
+## GitHub Statistics
 
-> Good systems are not just functional.  
-> They are predictable under failure, scalable under load,  
-> and simple enough to reason about.
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rawan78sadeq&show_icons=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rawan78sadeq&layout=compact" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rawan78sadeq" height="170"/>
+</p>
 
 ---
 
-## Currently Deepening
+## Contribution Activity
 
-- Production-level distributed system patterns  
-- Advanced networking internals  
-- Scalable service architectures
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rawan78sadeq/rawan78sadeq/output/github-contribution-grid-snake.svg"/>
+</p>
